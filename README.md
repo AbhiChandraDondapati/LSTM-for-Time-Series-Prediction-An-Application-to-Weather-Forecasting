@@ -104,6 +104,8 @@ Weather predictions are crucial for planning and ensuring safety against natural
   - Expanding the model to predict other weather parameters like rainfall and wind speed.
   - Integrating real-time data feeds for continuous model retraining.
 
+## All the outputs and results can be shown clearly in code.ipynb file.
+
 ---
 
 ## 📚 References
